@@ -3,6 +3,16 @@
         "iostream": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "string_view": "cpp",
+        "hash_map": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "limits": "cpp",
+        "istream": "cpp",
+        "optional": "cpp",
+        "type_traits": "cpp"
     }
 }
